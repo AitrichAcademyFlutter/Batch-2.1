@@ -1,6 +1,6 @@
 void main() {
   try {
-    throw MyCustomException('This is a coustom exception message');
+    //throw here
   } catch (e) {
     print(e);
   }
